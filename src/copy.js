@@ -1,4 +1,5 @@
 // ✏️ EDIT HERE — settings + every word of the invitation, in Gujarati (gu) and English (en).
+import weddingSongUrl from './assests/aaj-sajya.mpeg'
 
 export const CFG = {
   phone: '7861821164',
@@ -6,9 +7,8 @@ export const CFG = {
   weddingISO: '2027-01-28T10:00:00+05:30',
   mapQuery: 'https://maps.app.goo.gl/yH3iq2y29mpKmdg89',
   mapQuery1: 'https://maps.app.goo.gl/bXtTHNSKaExc51366',
-  // Optional: put your own song at /public/music.mp3 and set musicUrl: '/music.mp3'.
-  // Leave '' to use the built-in soft sitar-style ambient music (no file needed).
-  musicUrl: '',
+  // Wedding song from the assets folder; set to '' to use the built-in ambient music.
+  musicUrl: weddingSongUrl,
 }
 
 const SH1_GU = 'વક્રતુંડ મહાકાય, સૂર્યકોટિ સમપ્રભ ।\nનિર્વિઘ્નં કુરુ મે દેવ, સર્વકાર્યેષુ સર્વદા ॥'
