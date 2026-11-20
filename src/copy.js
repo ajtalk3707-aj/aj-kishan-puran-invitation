@@ -19,11 +19,11 @@ const SH2_EN = 'माङ्गल्यं भगवान् विष्ण�
 export const COPY = {
   gu: {
     intro: {
-      suspense: ['ચાંદનીએ બે નામોની વાર્તા સજાવી છે…', 'એક વચન, બે જીવનનો સાથ…', 'સાત ફેરામાં ખીલશે પ્રેમની નવી કહાણી…', 'કિશન અને પુરનના મિલનની ઘડી નજીક છે…'],
+      suspense: ['ચાંદનીએ બે નામોની વાર્તા સજાવી છે…', 'એક વચન, બે જીવનનો સાથ…', 'સાત ફેરામાં ખીલશે પ્રેમની નવી કહાણી…', 'કિશન અને પૂરણના મિલનની ઘડી નજીક છે…'],
       tap: 'કંકોતરી ખોલવા કવર પર સ્પર્શ કરો', skip: 'છોડો',
     },
     hero: {
-      initials: 'K & P', eyebrow: 'શુભ વિવાહ', g: 'ચિ. કિશન', and: 'સંગ', b: 'ચિ. પુરન',
+      initials: 'K & P', eyebrow: 'શુભ વિવાહ', g: 'ચિ. કિશન', and: 'સંગ', b: 'ચિ. પૂરણ',
       date: 'તા. ૨૮/૦૧/૨૦૨૭, ગુરુવાર', place: '', cdTitle: 'શુભ ઘડીને બાકી',
       units: ['દિવસ', 'કલાક', 'મિનિટ', 'સેકન્ડ'], cdDone: 'શુભ ઘડી આવી ગઈ છે 🎉', scroll: 'નીચે સ્ક્રોલ કરો',
     },
@@ -38,9 +38,9 @@ export const COPY = {
       days: [
         { label: 'પ્રથમ દિવસ', date: 'બુધવાર, તા. ૨૭/૦૧/૨૦૨૭', items: [
           { time: 'સવારે ૯:૧૫', icon: '🪔', title: 'મંડપ મુહૂર્ત' },
-          { time: 'બપોરે ૧૦:૦૦', icon: '🌼', title: 'હલ્દી રસમ', desc: 'સ્વરુચી ભોજન સાથે આપની પધારવા વિનંતી.' },
-          { time: 'બપોરે ૧૧:૩૦', icon: '🍽️', title: 'સ્વરુચી ભોજન', desc: 'પ્રેમ રાસ ઉત્સવ' },
-          { time: 'રાત્રે ૯:૩૦', icon: '🪕', title: 'રાસ-ગરબા', desc: 'પ્રેમ રાસ' },
+          { time: 'સવારે ૧૦:૦૦', icon: '🌼', title: 'હલ્દી રસમ', desc: 'હળદરના રંગે રંગાવાની આનંદમય રસમ.' },
+          { time: 'બપોરે ૧૧:૩૦', icon: '🍽️', title: 'સ્વરુચી ભોજન', desc: 'સ્નેહીજનો સાથે સ્વાદિષ્ટ ભોજનનો આનંદ.' },
+          { time: 'રાત્રે ૯:૩૦', icon: '🪕', title: 'રાસ-ગરબા', desc: 'સંગીતના તાલે રાસ-ગરબાની રંગત માણીએ.' },
         ] },
         { label: 'બીજો દિવસ', date: 'ગુરુવાર, તા. ૨૮/૦૧/૨૦૨૭', items: [
           { time: 'વહેલી સવારે ૭:૦૦', icon: '🎺', title: 'જાન પ્રસ્થાન', desc: 'સણોસરાથી' },
@@ -66,7 +66,7 @@ export const COPY = {
     rsvp: {
       title: 'આપની રાહ જોઈએ છીએ', sub: 'આપની હાજરી જ અમારા માટે સૌથી મોટી ભેટ છે.',
       wa: 'વોટ્સએપ પર શુભેચ્છા પાઠવો (RSVP)', call: 'સંપર્ક',
-      msg: 'નમસ્તે, ચિ. કિશન સંગ ચિ. પુરન ના શુભ લગ્ન પ્રસંગે હાર્દિક શુભેચ્છાઓ!',
+      msg: 'નમસ્તે, ચિ. કિશન સંગ ચિ. પૂરણ ના શુભ લગ્ન પ્રસંગે હાર્દિક શુભેચ્છાઓ!',
     },
     footer: 'પ્રેમ અને આશીર્વાદ સહ',
   },
@@ -92,14 +92,14 @@ export const COPY = {
       days: [
         { label: 'Day One', date: 'Wednesday, 27 January 2027', items: [
           { time: '9:15 AM', icon: '🪔', title: 'Mandap Muhurat' },
-          { time: '10:00 PM', icon: '🌼', title: 'Haldi Ceremony', desc: 'Followed by a festive lunch — we request your presence.' },
-          { time: '11:30 PM', icon: '🍽️', title: 'Lunch', desc: 'Prem Raas evening' },
-          { time: '9:30 PM', icon: '🪕', title: 'Raas-Garba', desc: 'Prem Raas' },
+          { time: '10:00 AM', icon: '🌼', title: 'Haldi Ceremony', desc: 'A joyful celebration in hues of turmeric.' },
+          { time: '11:30 AM', icon: '🍽️', title: 'Lunch', desc: 'Enjoy a delicious meal with family and friends.' },
+          { time: '9:30 PM', icon: '🪕', title: 'Raas-Garba', desc: 'Join us for an evening of music, dance, and Raas-Garba.' },
         ] },
         { label: 'Day Two', date: 'Thursday, 28 January 2027', items: [
           { time: '7:00 AM', icon: '🎺', title: 'Jaan Prasthan', desc: 'Departing from Surat' },
-          { time: '10:00 PM', icon: '💍', title: 'Hast Melap', desc: 'At the auspicious Choghadiya' },
-          { time: '11:30 PM', icon: '🍽️', title: 'Wedding Lunch' },
+          { time: '10:00 AM', icon: '💍', title: 'Hast Melap', desc: 'At the auspicious Choghadiya' },
+          { time: '11:30 AM', icon: '🍽️', title: 'Wedding Lunch' },
         ] },
       ],
     },
