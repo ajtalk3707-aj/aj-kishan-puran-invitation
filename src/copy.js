@@ -50,8 +50,8 @@ export const COPY = {
       ],
     },
     kalrav: { title: 'મધુર કલરવ', msg: 'લગ્નના શુભ પ્રસંગે પ્રેમ અને સ્નેહની લાગણીઓ સાથે આપ સૌની હાજરી અમારા માટે આશીર્વાદ સમાન છે. પધારશો જ, એવી અપેક્ષા સહ.', sender: '– સાદર, સૌ સ્નેહીજનો' },
-    venue: { title: 'શુભ સ્થળ', name: 'સણોસરા(વાડીએ)', lines: ['ખેરાણા રોડ', 'ચોટીલા, સુરેન્દ્રનગર.'], btnMap: 'ગૂગલ મેપ પર લોકેશન જુઓ' },
-    venue2: { title: 'લગ્ન સ્થળ', name: 'સમઢિયાળા', lines: ['સમઢિયાળા', 'વિંછીયા.'], btnMap: 'ગૂગલ મેપ પર લોકેશન જુઓ' },
+    venue: { title: 'શુભ સ્થળ', name: 'સણોસરા(વાડીએ)', lines: ['ખેરાણા રોડ', 'તા. ચોટીલા, સુરેન્દ્રનગર.'], btnMap: 'ગૂગલ મેપ પર લોકેશન જુઓ' },
+    venue2: { title: 'લગ્ન સ્થળ', name: 'સમઢિયાળા', lines: ['સમઢિયાળા', 'તા. વિંછીયા.'], btnMap: 'ગૂગલ મેપ પર લોકેશન જુઓ' },
     family: {
       title: 'પરિવારજનો',
       cards: [
@@ -104,8 +104,8 @@ export const COPY = {
       ],
     },
     kalrav: { title: 'Sweet Words', msg: 'On this auspicious occasion, your presence — filled with love and affection — is a blessing to us. We eagerly await you.', sender: '– With warm regards, all our loved ones' },
-    venue: { title: 'The Venue', name: 'Sanosara', lines: ['Kherana Road', 'Chotila, Surendranagar.'], btnMap: 'View location on Google Maps' },
-    venue2: { title: 'The Wedding Venue', name: 'Samadhiyala', lines: ['Samadhiyala', 'Vinchhiya.'], btnMap: 'View location on Google Maps' },
+    venue: { title: 'The Venue', name: 'Sanosara', lines: ['Kherana Road', 'Ta.Chotila, Surendranagar.'], btnMap: 'View location on Google Maps' },
+    venue2: { title: 'The Wedding Venue', name: 'Samadhiyala', lines: ['Samadhiyala', 'Ta.Vinchhiya.'], btnMap: 'View location on Google Maps' },
     family: {
       title: 'With Love From',
       cards: [
