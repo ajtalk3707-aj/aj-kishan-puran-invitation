@@ -105,7 +105,7 @@ export const COPY = {
     },
     kalrav: { title: 'Sweet Words', msg: 'On this auspicious occasion, your presence — filled with love and affection — is a blessing to us. We eagerly await you.', sender: '– With warm regards, all our loved ones' },
     venue: { title: 'The Venue', name: 'Sanosara', lines: ['Kherana Road', 'Chotila, Surendranagar.'], btnMap: 'View location on Google Maps' },
-    venue2: { title: 'The Venue', name: 'Samadhiyala', lines: ['Samadhiyala', 'Vinchhiya.'], btnMap: 'View location on Google Maps' },
+    venue2: { title: 'The Wedding Venue', name: 'Samadhiyala', lines: ['Samadhiyala', 'Vinchhiya.'], btnMap: 'View location on Google Maps' },
     family: {
       title: 'With Love From',
       cards: [
