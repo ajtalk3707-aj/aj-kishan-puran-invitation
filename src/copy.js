@@ -77,7 +77,7 @@ export const COPY = {
       tap: 'Tap the envelope to open your invitation', skip: 'Skip',
     },
     hero: {
-      initials: 'K & P', eyebrow: 'The Wedding Of', g: 'Kishan', and: '&', b: 'Purna',
+      initials: 'K & P', eyebrow: 'The Wedding Of', g: 'Kishan', and: '&', b: 'Puran',
       date: 'Thursday, 28 January 2027', place: '', cdTitle: 'Counting down to the big moment',
       units: ['Days', 'Hours', 'Minutes', 'Seconds'], cdDone: 'The celebration has begun 🎉', scroll: 'Scroll down',
     },
