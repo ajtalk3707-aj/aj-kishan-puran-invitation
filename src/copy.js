@@ -57,7 +57,7 @@ export const COPY = {
       cards: [
         { t: 'નિમંત્રક', list: ['શ્રી વશરામભાઈ છગનભાઈ પરમાર', 'સરનામું: ખેરાણા રોડ - સણોસરા, તા. ચોટીલા'] },
         { t: 'લિ. સ્નેહાધીન', list: ['શ્રી વિરજીભાઈ છગનભાઈ પરમાર', 'શ્રી વશરામભાઈ છગનભાઈ પરમાર', 'શ્રી ભુપતભાઈ છગનભાઈ પરમાર', 'શ્રી સંજયભાઈ વિરજીભાઈ પરમાર', 'શ્રી જસમતભાઈ વિરજીભાઈ પરમાર', 'શ્રી વિશાલભાઈ વશરામભાઈ પરમાર'] },
-        { t: 'લિ. દર્શનાભિલાષી', list: ['ચિ. પ્રદીપ, ચિ. અક્ષિત', 'ચિ. અંકિતા, ચિ. ઉર્મિલા, ચિ. અક્ષિતા, ચિ. ધર્મિષ્ઠા', 'સમસ્ત મિત્ર મંડળ'] },
+        { t: 'લિ. દર્શનાભિલાષી', list: ['ચિ. પ્રદીપ, ચિ. અક્ષિત', ' ચિ. મહેક, ચિ. અંકિતા, ચિ. ઉર્મિલા, ચિ. અક્ષિતા, ચિ. ધર્મિષ્ઠા', 'સમસ્ત મિત્ર મંડળ'] },
         { t: 'મોસાળ પક્ષ', list: ['શ્રી અશ્વિનભાઈ કડવાભાઈ ચૌહાણ', 'શ્રી નિલેશભાઈ કડવાભાઈ ચૌહાણ'] },
         { t: 'બાણેજ પક્ષ', list: ['દિવ્યાંશી, દક્ષિતા, પ્રિયાંશ'] },
         { t: 'ફર્મ', list: ['ઓનસ્ટ મોબાઈલ, સણોસરા', 'એ. જે. ઈન્વિટેશન'] },
@@ -111,7 +111,7 @@ export const COPY = {
       cards: [
         { t: 'Hosts', list: ['Mr. Vashrambhai Chhaganbhai Parmar', 'Address: Sanosara, Ta-Chotila, Surendranagar'] },
         { t: 'Affectionately Yours', list: ['Mr. Virajibhai Chhaganbhai Parmar', 'Mr. Vashrambhai Chhaganbhai Parmar', 'Mr. Bhupatbhai Chhaganbhai Parmar', 'Mr. Sanjaybhai Virajibhai Parmar', 'Mr. Jasmatbhai Virajibhai Parmar', 'Mr. Vishalbhai Vashrambhai Parmar'] },
-        { t: 'Eager to Welcome You', list: ['Pradip, Akshit', 'Ankita, Urmila, Akshita, Dharmistha', 'All our friends'] },
+        { t: 'Eager to Welcome You', list: ['Pradip, Akshit', 'Mahek, Ankita, Urmila, Akshita, Dharmistha', 'All our friends'] },
         { t: "Maternal Family (Mosal)", list: ['Mr. Ashvinbhai Kadvabhai Chauhan', 'Mr. Nileshbhai Kadvabhai Chauhan'] },
         { t: 'Banej Side', list: ['Divyanshi, Dakshita, Priyansh'] },
         { t: 'Firm', list: ['Honest Mobile, Sanosara', 'A. J. Invitations'] },
